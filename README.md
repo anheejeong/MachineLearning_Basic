@@ -1,2 +1,2 @@
 # MachineLeearning_Basic
-python - collar
+python - colab
